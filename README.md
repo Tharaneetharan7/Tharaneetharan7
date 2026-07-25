@@ -16,8 +16,6 @@ Renewable Energy Forecasting — LSTM/CNN-LSTM vs. classical ML for solar irradi
 
 🌐 Find me elsewhere
 
-Portfolio: https://tharanee25-portfolio.vercel.app/
 LinkedIn: www.linkedin.com/in/tharaneetharan-thavarasan-52754940
-Medium: https://medium.com/@ttharaneetharan7
 
 Currently applying my ERP background to data science problems — always happy to chat about ERP-to-data career transitions.
