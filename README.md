@@ -19,8 +19,7 @@ What I'm most interested in is the overlap most people skip: understanding how t
 | 🌐 [Green Energy Homepage](https://github.com/Tharaneetharan7/green-energy-homepage) | The front end for the forecasting platform, built in React + TypeScript + Vite. [Live site →](https://green-energy-homepage.vercel.app) |
 | 🏦 [Customer Churn Prediction](https://github.com/Tharaneetharan7/CustomerChurnPrediction) | Predicting which bank customers are likely to leave, comparing ANN-MLP, Random Forest and XGBoost. I went back and fixed SMOTE leakage and evaluation bugs in my original version — the write-up explains what changed. |
 | ✈️ [Travel Insurance Prediction](https://github.com/Tharaneetharan7/TravelInsurancePrediction) | Classifying which customers will buy travel insurance — six models compared after cleaning up data leakage and resampling order. |
-| 🤝 [She Sharp](https://github.com/NZ-SheSharp/she-sharp) | Volunteer contributor — Python/Playwright automation comparing the old and new She Sharp websites during their migration. |
-
+| 🤝 [She Sharp](https://github.com/NZ-SheSharp/she-sharp) | Volunteer contributor — Python/Playwright automation compared the old and new She Sharp websites during their migration. Supporting the website updates |
 **Coming next:** an e-commerce sales & inventory analytics platform — sales forecasting, inventory optimisation, customer segmentation and product performance on public Flipkart data.
 
 ### 🌐 Find me elsewhere
