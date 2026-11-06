@@ -24,6 +24,6 @@ What I'm most interested in is the overlap most people skip: understanding how t
 
 ### 🌐 Find me elsewhere
 
-[Portfolio](https://tharanee25-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/tharaneetharan-thavarasan-52754940) · [Medium](https://medium.com/@ttharaneetharan7) · [ResearchGate](https://www.researchgate.net/profile/Tharaneetharan-Thavarasan)
+[Portfolio](🌐 Live site: (https://tharaneetharan.com)) · [LinkedIn](https://www.linkedin.com/in/tharaneetharan-thavarasan-52754940) · [Medium](https://medium.com/@ttharaneetharan7) · [ResearchGate](https://www.researchgate.net/profile/Tharaneetharan-Thavarasan)
 
 Always happy to chat about ERP-to-data career moves, or anything at the finance-meets-ML end of things.
